@@ -6,7 +6,7 @@ body {
     height: 100vh;
     margin: 0;
     padding: 0;
-    background-image: url('/home/fernando-alexandre-silva/Documentos/AtividadeNamoro/imagens/KoalaEaFlor.png');
+    background-image: url('../imagens/KoalaEaFlor.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
